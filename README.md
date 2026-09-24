@@ -1,47 +1,39 @@
-<div align="center">
+<h1>🎯 DiscoSecurity</h1>
+<p><em>Precision in vulnerability research & Offensive security hub.</em></p>
 
-# 🎯 Welcome to DiscoSecurity
+<hr>
 
-**Precision in vulnerability research & Offensive security hub.**
-
-<br>
-
-### 👾 About Us
-We are a community dedicated to building open-source tools for Bug Bounty, Red Teaming, and sharing vulnerability research. 
-Our focus is on web security, automation pipelines, and providing high-quality resources for the global InfoSec community.
-
-<br>
-
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" />
+<h3>👾 About Us</h3>
+<p>
+  We are an independent security research hub dedicated to <b>Bug Bounty</b>, <b>Red Teaming</b>, and <b>Vulnerability Disclosure</b>. 
+</p>
+<p>
+  Our mission is to push the boundaries of web security by developing offensive automation pipelines and sharing high-level research. We operate on a <strong>"Give First"</strong> mentality—publishing custom scripts, proof-of-concepts (PoCs), and deep-dive write-ups to elevate the collective knowledge of the global InfoSec community.
 </p>
 
 <br>
 
-### 📡 Join the Community
-*Stay updated with our latest tools, scripts, and write-ups.*
+<h3>📡 Join the Community</h3>
+<p>Get early access to our latest research, zero-day discussions, and custom offensive security resources.</p>
 
-<p align="center">
-  <a href="https://twitter.com/SEU_USER_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="LINK_DO_SEU_DISCORD_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="LINK_DO_SEU_TELEGRAM_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
+<!-- BOTÃO PRINCIPAL DA COMUNIDADE -->
+<a href="https://linkme.bio/DiscoSecurity" target="_blank">
+  <img src="https://img.shields.io/badge/Join_Community_(Backup_Link)-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Community Backup Link" />
+</a>
 
----
+<br><br>
 
-<p align="center">
-  <i>"Give First. Hack Hard."</i>
-</p>
+<!-- REDES SOCIAIS -->
+<a href="https://x.com/DiscSecurity" target="_blank">
+  <img src="https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+</a>
+<a href="https://t.me/DiscoSecurity" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://github.com/DiscoSecurity" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-</div>
+<br><br><br>
+
+> *"Give First. Hack Hard."*
