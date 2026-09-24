@@ -16,9 +16,9 @@
 <h3>📡 Join the Community</h3>
 <p>Get early access to our latest research, zero-day discussions, and custom offensive security resources.</p>
 
-<!-- BOTÃO PRINCIPAL DA COMUNIDADE -->
+<!-- BOTÃO PRINCIPAL DA COMUNIDADE (AGORA COM LOGO DO TELEGRAM) -->
 <a href="https://linkme.bio/DiscoSecurity" target="_blank">
-  <img src="https://img.shields.io/badge/Join_Community_(Backup_Link)-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Community Backup Link" />
+  <img src="https://img.shields.io/badge/Join_Community_(Backup_Link)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Community Backup Link" />
 </a>
 
 <br><br>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
 </a>
 <a href="https://t.me/DiscoSecurity" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
 </a>
 <a href="https://github.com/DiscoSecurity" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
